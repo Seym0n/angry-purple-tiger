@@ -4,12 +4,17 @@ Generate memorable, human-readable animal-based hash digests for PHP application
 
 This is a PHP port of [Helium's angry-purple-tiger](https://github.com/helium/angry-purple-tiger) library, which generates animal-based hash digests meant to be memorable and human-readable. Perfect for anthropomorphizing project names, crypto addresses, UUIDs, and other complex strings in user interfaces.
 
+![Packagist Version](https://img.shields.io/packagist/v/seym0n/angry-purple-tiger)
+![Packagist Stars](https://img.shields.io/packagist/stars/seym0n/angry-purple-tiger)
+![Packagist Downloads](https://img.shields.io/packagist/dt/seym0n/angry-purple-tiger)
+
+
 ## Installation
 
 Install via Composer:
 
 ```bash
-composer require seymon/angry-purple-tiger
+composer require seym0n/angry-purple-tiger
 ```
 
 ## Usage
